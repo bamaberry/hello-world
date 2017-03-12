@@ -1,6 +1,5 @@
 # hello-world
-just another repositoryHe
-
+just another repository
 Hey whatsup?
 
 It's Brittney. I've missed you. Do you have plans this weekend? 
